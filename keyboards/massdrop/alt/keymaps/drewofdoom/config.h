@@ -127,9 +127,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGB_MATRIX_LED_PROCESS_LIMIT 15
 #define RGB_MATRIX_LED_FLUSH_LIMIT 10
 #define RGB_MATRIX_STARTUP_MODE RGB_MATRIX_SOLID_COLOR
-#define RGB_MATRIX_STARTUP_HUE 124
+#define RGB_MATRIX_STARTUP_HUE 120
 #define RGB_MATRIX_STARTUP_SPD 115
-#define RGB_MATRIX_STARTUP_SAT 255
-#define RGB_MATRIX_STARTUP_VAL 255
+#define RGB_MATRIX_STARTUP_SAT 205
+#define RGB_MATRIX_STARTUP_VAL 170
 
 #include "config_led.h"
